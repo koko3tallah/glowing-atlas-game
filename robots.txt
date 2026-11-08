@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /cafe.html
 
-Sitemap: https://koko3tallah.github.io/solvent-cities-play/sitemap.xml
+Sitemap: https://glowingatlas.com/sitemap.xml
